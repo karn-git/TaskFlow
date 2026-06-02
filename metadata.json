@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A clean, modern team task management app with interactive Kanban boards, structured lists, and real-time collaboration features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
